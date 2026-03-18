@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Shoeb%20Akter%20Nafiz&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Researcher%20%7C%20Programmer&descAlignY=58&descColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Shoeb%20Akter%20Nafiz&fontSize=50&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Researcher%20%7C%20Programmer&descAlignY=58&descColor=FFFFFF" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&pause=200&speed=100&color=00FF00&center=true&vCenter=true&width=700&height=60&lines=...no+code;...no+bugs;...no+cry;...repeat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&pause=200&color=00FF00&center=true&vCenter=true&width=700&height=60&lines=...no+code;...no+bugs;...no+cry;...repeat)](https://git.io/typing-svg)
 
 <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width="30%" />
 
@@ -22,9 +22,9 @@ Open to **research collabs · open-source · ML/AI work**
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
-<p align="left">
+<div align="center">
   <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" /></a>&nbsp;
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" /></a>&nbsp;
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" /></a>&nbsp;
@@ -37,7 +37,7 @@ Open to **research collabs · open-source · ML/AI work**
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" /></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" /></a>&nbsp;
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux" /></a>
-</p>
+</div>
 
 ---
 
@@ -58,19 +58,13 @@ Open to **research collabs · open-source · ML/AI work**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=beyounafiz&theme=algolia&column=7&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=beyounafiz&radius=14&theme=github-compact&area=true&hide_border=false" />
 
 </div>
 
 ---
 
-### 🔗 Connect with me
+### Connect with me
 
 <div align="center">
 
@@ -85,25 +79,25 @@ Open to **research collabs · open-source · ML/AI work**
 
 ---
 
-### 🕹️ Contribution Games
+### Contribution Games
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/pacman-contribution-graph.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/pacman-contribution-graph.svg" />
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/pacman-contribution-graph.svg" />
+  <img alt="" src="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/pacman-contribution-graph.svg" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/snake.svg" />
-  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/snake.svg" />
+  <img alt="" src="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/snake.svg" />
 </picture>
 
 ---
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=beyounafiz&style=flat-square&color=DAA520&label=Profile+Views)](https://github.com/beyounafiz)
+[![](https://komarev.com/ghpvc/?username=beyounafiz&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/beyounafiz)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
 
