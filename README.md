@@ -1,144 +1,109 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shoeb%20Akter%20Nafiz&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Researcher%20%7C%20Builder&descAlignY=58&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Shoeb%20Akter%20Nafiz&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Researcher%20%7C%20Programmer&descAlignY=58&descColor=FFFFFF" />
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Nafiz+👋;CSE+Student+%40+Daffodil+Int'l+University;ML+%26+AI+Researcher+in+the+making;Turning+coffee+into+code+since+day+one)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&pause=200&speed=100&color=00FF00&center=true&vCenter=true&width=700&height=60&lines=...no+code;...no+bugs;...no+cry;...repeat)](https://git.io/typing-svg)
+
+<img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width="30%" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcyZ2tkdmkxNHNtaDNwcjdpaGMyZGpoYTBpZmxiazJodXF1cW42ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" align="right" width="100" />
 
-```python
-nafiz = {
-    "name"       : "Shoeb Akter Nafiz",
-    "alias"      : "beyounafiz",
-    "location"   : "Dhaka, Bangladesh 🇧🇩",
-    "university" : "Daffodil International University",
-    "field"      : "Computer Science & Engineering (CSE)",
-    "focus"      : ["Machine Learning", "Artificial Intelligence", "Research & Publications"],
-    "currently"  : "Working on ML research projects & a mobile app",
-    "learning"   : ["Deep Learning", "Data Science", "Mobile Dev"],
-    "fun_fact"   : "Proud gitphobic who still shows up on GitHub 😄",
-    "reach_me"   : "beyounafiz@gmail.com"
-}
-```
+### Hi, this is Nafiz
+
+**CSE** @ DIU
+
+Open to **research collabs · open-source · ML/AI work**
+
+<br clear="both" />
 
 ---
 
-## 🔭 What I'm Up To
+### 🛠️ Languages and Tools
 
-- 🔬 Working on **ML & AI research projects** and aiming for **publications**
-- 📱 Building a **mobile application**
-- 🌱 Currently deep-diving into **Deep Learning & Data Science**
-- 🤝 Open to **collaborating on research, open-source, or interesting projects**
-- 💬 Ask me about **C++, Python, OpenGL, or competitive programming**
-- ⚡ Fun fact: I'm a self-proclaimed **gitphobic** who somehow made it to GitHub
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### 🤖 ML / AI & Data
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### 🎮 Graphics & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" /></a>&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" /></a>&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" /></a>&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" /></a>&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" title="TensorFlow" /></a>&nbsp;
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" title="PyTorch" /></a>&nbsp;
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy" /></a>&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" title="Pandas" /></a>&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn" /></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" /></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" /></a>&nbsp;
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=beyounafiz&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyounafiz&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=beyounafiz&show_icons=true&theme=github_dark&hide_border=false&border_radius=8&locale=en" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyounafiz&hide_border=false&border_radius=8&layout=compact&theme=github_dark&langs_count=8" height="150" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=beyounafiz&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=beyounafiz&theme=github-dark-blue&hide_border=false&border_radius=8" height="150" />
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=beyounafiz&theme=algolia&no-frame=true&no-bg=true&column=-1&margin-w=8&margin-h=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=beyounafiz&theme=algolia&column=7&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=beyounafiz&radius=14&theme=github-compact&area=true&hide_border=false" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+### 🔗 Connect with me
 
-[![Nafiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beyounafiz&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beyounafiz)
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/beyounafiz)
+[![Facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/beyounafiz)
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/beyou_nafiz)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6407-7790)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-F97316?style=for-the-badge&logo=codeforces&logoColor=white)](https://judge.beecrowd.com/en/users/basic-info/726903)
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+### 🕹️ Contribution Games
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/pacman-contribution-graph.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/snake.svg" />
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/beyounafiz/beyounafiz/output/snake.svg" />
 </picture>
 
 ---
 
-## 🏆 Competitive Programming
-
-<div align="left">
-
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://judge.beecrowd.com/en/users/basic-info/726903)
-[![ORCID](https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6407-7790)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beyounafiz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beyounafiz)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/beyounafiz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/beyou_nafiz)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beyounafiz@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=beyounafiz&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=beyounafiz&style=flat-square&color=DAA520&label=Profile+Views)](https://github.com/beyounafiz)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
 
